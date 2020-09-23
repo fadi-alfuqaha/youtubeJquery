@@ -1,9 +1,4 @@
-const videos = [
-  {
-    id: "7yLxxyzGiko",
-    title: "Kittens walk with a tiny chicken",
-    thumbnail: "https://img.youtube.com/vi/7yLxxyzGiko/maxresdefault.jpg",
-  },
+const videos = [  
   {
     id: "rS6cvjFXg9s",
     title: "Cute kitten named Garfield washes its paws and prepares to sleep.",
